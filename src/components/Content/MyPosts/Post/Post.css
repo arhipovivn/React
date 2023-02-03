@@ -1,0 +1,16 @@
+.item-post {
+    color: rgb(56, 49, 49);
+    font-size: 26px;
+    padding: 10px;
+}
+
+.item-post span {
+    color: rgb(56, 49, 49);
+    font-size: 18px;
+}
+
+.item-post img {
+    margin: 5px;
+    width: 55px;
+    border-radius: 10px;
+}

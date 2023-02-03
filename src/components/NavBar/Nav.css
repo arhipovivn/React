@@ -1,0 +1,14 @@
+.nav {
+    grid-area: nav;
+    box-shadow: 3px 3px 3px 3px rgb(163, 163, 163);
+    border-radius: 20px;
+}
+
+.nav div a {
+    text-decoration: none;
+    color: #000;
+}
+
+.item {
+    margin: 10px;
+}
